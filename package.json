@@ -1,0 +1,22 @@
+{
+  "name": "lab01_-101307949_comp3133",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/floydcoder/Lab01_-101307949_COMP3133.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/floydcoder/Lab01_-101307949_COMP3133/issues"
+  },
+  "homepage": "https://github.com/floydcoder/Lab01_-101307949_COMP3133#readme",
+  "dependencies": {
+    "csv-parser": "^3.0.0"
+  }
+}
